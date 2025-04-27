@@ -1,4 +1,4 @@
-#js-mini-games
+# js-mini-games
 
 《코딩 자율학습 제로초의 자바스크립트》의 Part2 웹 게임 프로젝트 챕터 기반으로 제작한 게임 모음 웹앱
 코딩 자율학습 제로초의 자바스크립트 입문 깃허브 주소 https://github.com/gilbutITbook/080409/
